@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">가계부</string>
+    <string name="notification_listener_label">가계부 알림 수집</string>
+    <string name="tab_home">홈</string>
+    <string name="tab_pending">대기</string>
+    <string name="tab_settings">설정</string>
+    <string name="add">추가</string>
+    <string name="income">수입</string>
+    <string name="expense">지출</string>
+    <string name="balance">잔액</string>
+    <string name="approve">승인</string>
+    <string name="reject">삭제</string>
+    <string name="date">날짜</string>
+    <string name="amount">금액</string>
+    <string name="category">카테고리</string>
+    <string name="memo">메모</string>
+    <string name="merchant">가맹점</string>
+</resources>
